@@ -79,3 +79,7 @@ with st.spinner("Loading..."):
     )
     ani = make_gif(x, length_tail, T)
     st.image(gif_name)
+
+st.markdown('''Created by: Alexander Güntert 
+            ([Mastodon](https://mastodon.social/@gntert), [Twitter](https://twitter.com/TrickTheTurner))  
+            View source code: https://github.com/alexanderguentert/vicsek_simulator''')
