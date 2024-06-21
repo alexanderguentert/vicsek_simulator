@@ -5,10 +5,8 @@ It is of relevance for many sciences like physics, biology, ecology or social sc
 This simulator uses the [minimal implementation of the Vicsek](https://gist.github.com/arshednabeel/a70cc117eb38899fdd138f48b0bc5cd2) by [Arshed Nabeel](https://gist.github.com/arshednabeel).
 You can play with the parameters to see how they affect the model.
 
-Visit the Website:
-
+Visit the Website: https://vicseksim.streamlit.app/
 
 Example
-
 
 ![Example visualisation of a Vicsek model](Examples/model4.gif)
